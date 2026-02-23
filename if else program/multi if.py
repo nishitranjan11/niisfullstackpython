@@ -1,0 +1,1 @@
+no=int(input("enter a number\n"))
